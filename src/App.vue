@@ -21,7 +21,6 @@ export default {
 }
 </script>
 <style>
-  /* @import './assets/styles/style.css'; */
   @import './assets/tailwind.css';
 
 </style>
